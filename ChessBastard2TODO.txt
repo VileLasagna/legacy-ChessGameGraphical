@@ -1,0 +1,12 @@
+
+
+
+
+ CHESS BASTARD TODO
+ 
+ 
+	PAWN PROMOTION IS BROKEN -> Freezes the Game
+	GAME OVER!!
+	Play again?
+	Could use a menu, as opposed to a half-assed Splash Screen;
+	

@@ -1,0 +1,39 @@
+
+# The loading code for this file works on a sequential basis
+# so don't change the order of the properties or the file won't
+# load correctly.
+
+# Ignored:
+# Lines starting with a '#'
+# Blank Lines
+# All whitespaces
+     
+# Name (and relative path) of the file to be loaded.
+Highlight.png
+
+# Size of this sheet in cells (X, then Y)
+4,1
+
+# Number of pixels by which the top left corner of the containing rectangle of this sprite should be adjusted (X, then Y)
+0,0
+
+# Number of animations in this sheet
+4
+
+# Description of the animations on this sheet:
+#1 = Green Highlight
+#2 = Red Highlight
+#3 = Clear
+#4 = Pink Highlight
+
+
+# Ranges of sprites for the animations in this sheet (startX1, StartY1 /n EndX1, EndY1 /n startX2, StartY2 /n EndX2, EndY2 /n...)
+# indexes start at 1, the referenced sprites ARE played. The ranges are stored in order (the first pair of lines is the first animation)
+1,1
+1,1
+2,1
+2,1
+3,1
+3,1
+4,1
+4,1
